@@ -1,0 +1,29 @@
+{
+    "imperial":{
+        "volume":[
+                "cups", "teaspoons", "teaspoon", "tablespoons", "tablespoons", "cup"
+                ],
+        "weight":[
+                "oz", "ounces", "ounce", "lbs", "lb", "pounds", "pound"
+                ]
+    },
+    "metric":{
+        "volume":[
+                   "g", "grams", "gram"
+               ],
+        "weight":[ "mL", "L", "liter", "liters"
+                ]
+    },
+    "qualifiers":[
+        "head",
+        "clove",
+        "bulb",
+        "sprig",
+        "pinch",
+        "dash",
+        "small",
+        "medium",
+        "large",
+        "can"
+    ] 
+}
